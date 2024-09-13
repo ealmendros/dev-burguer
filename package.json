@@ -1,0 +1,21 @@
+{
+  "name": "devburger-api",
+  "version": "1.0.0",
+  "description": "DevBurguer API.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": {
+    "name": "Erick Almendros",
+    "url": "https://github.com/ealmendros"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "sucrase": "^3.35.0"
+  }
+}
